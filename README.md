@@ -1,5 +1,5 @@
 # projects
-Some of my smaller, mostly personal, projects
+Some of my smaller projects
 
 <b>Chinese zodiac calculator</b>
 
